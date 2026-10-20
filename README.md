@@ -1,4 +1,4 @@
-# 🤝 Friend Recommendation System
+# Friend Recommendation System
 
 Discover new friends through mutual connections! This interactive web application uses a graph-based recommendation algorithm to suggest potential friends based on your existing friendship network.
 
