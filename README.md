@@ -2,30 +2,30 @@
 
 Discover new friends through mutual connections! This interactive web application uses a graph-based recommendation algorithm to suggest potential friends based on your existing friendship network.
 
-## 🌐 Live Demo
+##  Live Demo
 
-🚀 **[Try the Friend Recommendation System](https://freindsrecommendationsystem.streamlit.app/)**
+ **[Try the Friend Recommendation System](https://freindsrecommendationsystem.streamlit.app/)**
 
-## ✨ Features
+##  Features
 
-- 👥 Explore a friendship network of 100 people.
-- 🔗 Build an undirected graph from friendship data.
-- 🤝 Recommend new friends using mutual connections.
-- 📊 Display the number of mutual connections for each recommendation.
-- ⭐ Categorize recommendations by match strength:
+-  Explore a friendship network of 100 people.
+-  Build an undirected graph from friendship data.
+-  Recommend new friends using mutual connections.
+-  Display the number of mutual connections for each recommendation.
+-  Categorize recommendations by match strength:
   - **Highly Recommended:** More than 5 mutual connections.
   - **Good Match:** 3–5 mutual connections.
   - **Possible Match:** Fewer than 3 mutual connections.
-- 🌐 Simple and interactive web interface built with Streamlit.
+-  Simple and interactive web interface built with Streamlit.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python** — Core application logic
 - **Pandas** — Data loading and processing
 - **Graph Algorithms** — Friendship network and recommendations
 - **Streamlit** — Interactive web application
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Friend-Recommendation-System/
@@ -35,7 +35,7 @@ Friend-Recommendation-System/
 └── README.md
 ```
 
-## ⚙️ Run Locally
+##  Run Locally
 
 ### 1. Clone the repository
 
@@ -63,7 +63,7 @@ streamlit run app.py
 
 The application will open in your browser.
 
-## 🧠 How It Works
+##  How It Works
 
 1. Loads friendship data from a CSV file.
 2. Represents people and their friendships as an undirected graph.
@@ -72,7 +72,7 @@ The application will open in your browser.
 5. Counts mutual connections for each potential friend.
 6. Sorts recommendations by mutual connections and assigns a recommendation level.
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Search for people by name.
 - Visualize the friendship network.
@@ -80,7 +80,7 @@ The application will open in your browser.
 - Integrate a database for managing friendships.
 - Improve the user interface.
 
-## 👨‍💻 Author
+##  Author
 
 **MD Nawedullah Saif**
 
