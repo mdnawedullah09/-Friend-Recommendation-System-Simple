@@ -88,8 +88,7 @@ GitHub: [@mdnawedullah09](https://github.com/mdnawedullah09)
 
 **Taffhimuz Zaman**
 
-GitHub: [@taffhimuzzamanhamza-beep]
-(https://github.com/taffhimuzzamanhamza-beep)
+GitHub: [@taffhimuzzamanhamza-beep](https://github.com/taffhimuzzamanhamza-beep)
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
